@@ -3,7 +3,7 @@
     <title>Boxfuse Sample App: yooooooo111!</title>
 </head>
 <body style="text-align: center">
-<h1>Hello!</h1>
+<h1>Hello world!</h1>
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your Instance!</h2>
